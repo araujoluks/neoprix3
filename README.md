@@ -7,8 +7,8 @@
 ## Português
 
 Mod para o Grand Prix 3 (versão 1.13) no Windows 10/11: aceleração 3D via
-dgVoodoo, widescreen de verdade (Hor+), espelho virtual no topo, FPS mais alto,
-Alt+Tab sem travar e um menu de ajustes dentro do jogo (F11).
+dgVoodoo, widescreen de verdade (Hor+), espelho virtual no topo, FPS mais alto e
+sem quedas perto de outros carros, Alt+Tab sem travar e um menu de ajustes dentro do jogo (F11).
 
 ### Instalação
 
@@ -42,6 +42,8 @@ Para desinstalar, apague `dinput.dll`, `gp3mod.ini`, `dgVoodoo.conf`,
   - Frame rate: FPS da corrida; vale a partir da próxima sessão (marcado
     com `*`). A física do jogo roda um passo por frame, então o FPS
     escolhido também é o passo da física.
+  - CPU optimization: reduz bastante o uso de CPU e as quedas de FPS
+    perto de outros carros (ligado por padrão).
 - Todas as opções estão comentadas no `gp3mod.ini`.
 
 ### Problemas
@@ -58,7 +60,7 @@ aplicada (o jogo continua funcionando normalmente).
 
 Mod for Grand Prix 3 (version 1.13) on Windows 10/11: 3D acceleration through
 dgVoodoo, proper widescreen (Hor+), a virtual mirror at the top, higher frame
-rate, Alt+Tab that does not break the game, and an in-game settings menu (F11).
+rate without drops near other cars, Alt+Tab that does not break the game, and an in-game settings menu (F11).
 
 ### Install
 
@@ -91,6 +93,8 @@ To uninstall, delete `dinput.dll`, `gp3mod.ini`, `dgVoodoo.conf`,
   - Frame rate: race frame rate; applies from the next session (marked
     `*`). The game runs one physics step per frame, so this is also the
     physics step.
+  - CPU optimization: much lower CPU use and fewer frame drops near other
+    cars (on by default).
 - Every option is commented in `gp3mod.ini`.
 
 ### Problems
