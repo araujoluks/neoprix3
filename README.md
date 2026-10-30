@@ -34,6 +34,7 @@ Para desinstalar, apague `dinput.dll`, `gp3mod.ini`, `dgVoodoo.conf`,
   setas ↑↓ escolhem, ←→ (ou Enter) mudam, Esc fecha. As mudanças são
   gravadas no `gp3mod.ini`.
   - Virtual mirror: espelho no topo da tela, desligado ou 50–200%.
+  - Mirror position: altura do espelho na tela (0% = colado no topo).
   - Field of view: campo de visão, 50–200%.
   - Widescreen (Hor+): em telas largas, mostra mais nas laterais em vez
     de esticar a imagem.
@@ -82,6 +83,7 @@ To uninstall, delete `dinput.dll`, `gp3mod.ini`, `dgVoodoo.conf`,
 - **F11** in a race (also while paused) opens the menu: ↑↓ select, ←→ (or
   Enter) change, Esc closes. Changes are saved to `gp3mod.ini`.
   - Virtual mirror: mirror at the top of the screen, off or 50–200%.
+  - Mirror position: how far down the screen the mirror sits (0% = top).
   - Field of view: 50–200%.
   - Widescreen (Hor+): on wide screens, shows more at the sides instead of
     stretching the picture.
